@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android Development, Java, Spring Boot**
 
-- 📫 How to reach me **2019kuec2003@iiitkota.ac.in**
+- 📫 How to reach me **tanmay.barjatya10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
